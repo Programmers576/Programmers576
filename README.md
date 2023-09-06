@@ -1,4 +1,5 @@
-### Hi there 👋
+###  Hi👋,my name is WuHengye,I am a student of Class 1 of Computer Science and Technology Grade 21，JiMei University
+### I love dancing,because I think it not only makes me more handsome but also makes me more confident.I alse love running,I run everyday on the playground after school,it can makes me more confortable 
 
 <!--
 **Programmers576/Programmers576** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
